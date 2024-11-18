@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-Added for gfg too
+Added gfg in  manifest file to make it work with gfg too
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
